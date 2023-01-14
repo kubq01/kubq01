@@ -1,6 +1,6 @@
 Hi, my name is Kuba, and I am a 3rd-year computer engineering student. Currently, I am learning Kotlin and Spring Boot, and I am looking for an internship in either Android or Java development.
 
-Here is some descriptions of the most important projects:
+Here is some descriptions of my most important projects:
 
 Quiz App (Visible on my account)  
 Quiz App is a group semester project. It is a web application that allows teachers to create quizzes for students and students to solve these quizzes. The main technologies that we worked with are Java and Spring Boot. We also used Bootstrap Studio for generating HTML templates and Thymeleaf for connecting everything. The app is capable of getting user input, sending it over to the server, and after computations on the server side, sending a response back to the user.
